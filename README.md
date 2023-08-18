@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Mittal</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-yash&label=Profile%20views&color=0e75b6&style=flat" alt="myself-yash" /> </p>
-
 - 🌱 I’m currently learning **Spring Boot and Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/myself-yash](https://github.com/myself-yash)
