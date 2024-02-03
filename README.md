@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yashmittal258@gmai.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/11uv355cukep0cfh66azq/Yash-Mittal.pdf?rlkey=0ovpw037l4fut4f12hh3yswx9&dl=0](https://www.dropbox.com/scl/fi/11uv355cukep0cfh66azq/Yash-Mittal.pdf?rlkey=0ovpw037l4fut4f12hh3yswx9&dl=0)
+- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/c8jda09brccbyjioqph5a/Yash-Mittal.pdf?rlkey=cfontzqbfelsf7v94h70dpgru&dl=0](https://www.dropbox.com/scl/fi/c8jda09brccbyjioqph5a/Yash-Mittal.pdf?rlkey=cfontzqbfelsf7v94h70dpgru&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
